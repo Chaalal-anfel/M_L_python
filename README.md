@@ -1,1 +1,3 @@
 "# driving-behaviour" 
+La plupart des entreprises sont dotées de plateforme de suivi de flottes récoltant à une fréquence élevée (chaque 03 minutes) des données GPS (vitesses ; positions GPS, etc.) pour le suivi quotidien de leur PARC automobile. À travers l’agrégation de ses données GPS, on peut concevoir un système d’évaluation de conduite courante et, permettre de réduire les dépenses liées à poste de charge (on parle de taux de réduction de l’ordre de 20%).
+ L’objectif principal est de développer et de mettre en œuvre un système de classification des styles de conduite basé sur l’apprentissage automatique qui sensibilise les conducteurs à adopter  un style de conduite économique qui leur permet de réduire leur consommation de carburant.
